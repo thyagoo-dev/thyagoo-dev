@@ -5,7 +5,7 @@
 [![Inglês](https://img.shields.io/badge/English-US-blue)](./README.md)
 [![Português](https://img.shields.io/badge/Português-BR-green)](./README_pt.md)
 
-Meu nome é Cícero Thyago de Oliveira Fernandes, tenho 21 anos e sou do Ceará. Concluí o ensino médio no IFCE, com um curso técnico em Informática. Atualmente, estou cursando Bacharelado em Ciência da Computação no IFCE, com foco no desenvolvimento de sistemas. Desde criança, sou apaixonado por tecnologia, especialmente hardware e programação. Para aprimorar meus conhecimentos, fiz cursos adicionais em Programação de Sistemas e Desenvolvimento Full Stack, onde aprendi HTML, CSS, JAVASCRIPT e JAVA. Busco oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores na área de tecnologia.
+Meu nome é Cícero Thyago de Oliveira Fernandes, tenho 22 anos e sou do Ceará. Concluí o ensino médio no IFCE, com um curso técnico em Informática. Atualmente, estou cursando Bacharelado em Ciência da Computação no IFCE, com foco no desenvolvimento de sistemas. Desde criança, sou apaixonado por tecnologia, especialmente hardware e programação. Para aprimorar meus conhecimentos, fiz cursos adicionais em Programação de Sistemas e Desenvolvimento Full Stack, onde aprendi HTML, CSS, JAVASCRIPT e JAVA. Busco oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores na área de tecnologia.
 
 <div> 
 <!--Icone-->
