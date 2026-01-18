@@ -6,7 +6,7 @@
 [![Português](https://img.shields.io/badge/Português-BR-green)](./README_pt.md)
 
 
-My name is Cicero Thyago de Oliveira Fernandes, I am 21 years old and I am from Ceará. I completed high school at IFCE, with a technical course in Computer Science. I am currently studying for a Bachelor's degree in Computer Science at IFCE, with a focus on systems development. Since I was a child, I have been passionate about technology, especially hardware and programming. To improve my knowledge, I have taken additional courses in Systems Programming and Full Stack Development, where I learned HTML, CSS, JAVASCRIPT and JAVA. I seek opportunities to apply my knowledge and contribute to innovative projects in the technology area.
+My name is Cicero Thyago de Oliveira Fernandes, I am 22 years old and I am from Ceará. I completed high school at IFCE, with a technical course in Computer Science. I am currently studying for a Bachelor's degree in Computer Science at IFCE, with a focus on systems development. Since I was a child, I have been passionate about technology, especially hardware and programming. To improve my knowledge, I have taken additional courses in Systems Programming and Full Stack Development, where I learned HTML, CSS, JAVASCRIPT and JAVA. I seek opportunities to apply my knowledge and contribute to innovative projects in the technology area.
 
 <div> 
 <!--Icone-->
