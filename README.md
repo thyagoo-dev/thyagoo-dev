@@ -10,7 +10,7 @@ My name is Cicero Thyago de Oliveira Fernandes, I am 22 years old and I am from 
 
 <div> 
 <!--Icone-->
-  <img align="right" alt="Débora" height="200" src="thyagooof.jpg" style="padding: 10px">
+  <img align="right" alt="thyagoo-dev" height="200" src="thyagooof.jpg" style="padding: 10px">
 </div>
   <link rel="stylesheet" href=>
 
@@ -21,7 +21,7 @@ My name is Cicero Thyago de Oliveira Fernandes, I am 22 years old and I am from 
  This is my space where I share a bit of my journey and the projects I've been working on. I hope you find something of interest here!
 
  ## Portfolio
-- 🎨 [My online portfolio](https://thyagooof.github.io/), showcases my academic and personal projects.
+- 🎨 [My online portfolio](https://thyagoo-dev.github.io/), showcases my academic and personal projects.
 
 ## Languages and Tools
 <a href="https://skillicons.dev">
@@ -65,11 +65,11 @@ Feel free to get in touch with me and follow my journey in the field of technolo
 <div align="center">
 <!--Github Stats-->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="" src="https://github-readme-stats.vercel.app/api?username=thyagooof&theme=dracula&hide=issues&show_icons=true&rank_icon=github&show="/>
+    <img height="" src="https://github-readme-stats.vercel.app/api?username=thyagoo-dev&theme=dracula&hide=issues&show_icons=true&rank_icon=github&show="/>
   </a>
   <!--Languages-->
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagooof&layout=compact&theme=dracula"/>
+    <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagoo-dev&layout=compact&theme=dracula"/>
   </a>
   <br>
 </div>
