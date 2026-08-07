@@ -20,7 +20,7 @@ Meu nome é Cícero Thyago de Oliveira Fernandes, tenho 22 anos e sou do Ceará.
 Este é o meu espaço onde compartilho um pouco da minha jornada e dos projetos em que tenho trabalhado. Espero que encontre algo de interessante por aqui!
 
 ## Portfólio
-- 🎨 [Meu portfólio online](https://thyagooof.github.io/), mostra meus projetos acadêmicos e pessoais.
+- 🎨 [Meu portfólio online](https://cicero-thyago.vercel.app), mostra meus projetos acadêmicos e pessoais.
 
 ## Linguagens e Ferramentas
 <a href="https://skillicons.dev">
