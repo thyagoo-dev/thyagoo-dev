@@ -21,7 +21,7 @@ My name is Cicero Thyago de Oliveira Fernandes, I am 23 years old and I am from 
  This is my space where I share a bit of my journey and the projects I've been working on. I hope you find something of interest here!
 
  ## Portfolio
-- 🎨 [My online portfolio](https://thyagoo-dev.github.io/), showcases my academic and personal projects.
+- 🎨 [My online portfolio](https://cicero-thyago.vercel.app), showcases my academic and personal projects.
 
 ## Languages and Tools
 <a href="https://skillicons.dev">
