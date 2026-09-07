@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="450" viewBox="0 0 860 450" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="wbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111722"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="450" rx="12" fill="url(#wbg)"/>
+  <rect x="0.5" y="0.5" width="859" height="449" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+  <line x1="0" y1="28" x2="860" y2="28" stroke="#30363d"/>
+
+  <circle cx="18" cy="14" r="4.5" fill="#ff5f56"/>
+  <circle cx="33" cy="14" r="4.5" fill="#ffbd2e"/>
+  <circle cx="48" cy="14" r="4.5" fill="#27c93f"/>
+  <text x="430" y="18" fill="#7d8590" font-size="11.5" text-anchor="middle">thyagoo-dev@github: ~/skills</text>
+
+  <style>
+    .txt {
+      fill: #c9d1d9;
+      font-size: 13px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+    .cat { fill: #22d3ee; font-weight: bold; font-size: 15px; }
+    .dim { fill: #8b949e; font-size: 10.5px; }
+    .cursor { fill: #c9d1d9; animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    .fade-in { opacity: 0; animation: fadeIn 0.5s forwards; }
+    @keyframes fadeIn { to { opacity: 1; } }
+
+    .bar-bg { fill: #21262d; }
+  </style>
+
+  <!-- Conteúdo principal -->
+  <g transform="translate(30, 52)">
+    <text class="txt" y="0">
+      <tspan fill="#39d353">thyagoo-dev@github</tspan>:<tspan fill="#79c0ff">~</tspan>$ ./skills.sh
+    </text>
+
+    <!-- Languages -->
+    <g transform="translate(0, 38)" class="fade-in" style="animation-delay: 0.2s">
+      <text class="cat" y="0">Languages</text>
+
+      <text class="txt" x="0" y="36">Java</text>
+      <rect class="bar-bg" x="120" y="25" width="235" height="11" rx="5"/>
+      <rect x="120" y="25" width="0" height="11" rx="5" fill="#f89820">
+        <animate attributeName="width" from="0" to="212" dur="1s" fill="freeze"/>
+      </rect>
+
+      <text class="txt" x="0" y="66">JavaScript</text>
+      <rect class="bar-bg" x="120" y="55" width="235" height="11" rx="5"/>
+      <rect x="120" y="55" width="0" height="11" rx="5" fill="#f7df1e">
+        <animate attributeName="width" from="0" to="193" dur="1s" fill="freeze"/>
+      </rect>
+
+      <text class="txt" x="0" y="96">TypeScript</text>
+      <rect class="bar-bg" x="120" y="85" width="235" height="11" rx="5"/>
+      <rect x="120" y="85" width="0" height="11" rx="5" fill="#3178c6">
+        <animate attributeName="width" from="0" to="184" dur="1s" fill="freeze"/>
+      </rect>
+
+      <text class="txt" x="0" y="126">HTML / CSS</text>
+      <rect class="bar-bg" x="120" y="115" width="235" height="11" rx="5"/>
+      <rect x="120" y="115" width="0" height="11" rx="5" fill="#e34f26">
+        <animate attributeName="width" from="0" to="179" dur="1s" fill="freeze"/>
+      </rect>
+    </g>
+
+    <!-- Backend -->
+    <g transform="translate(430, 38)" class="fade-in" style="animation-delay: 0.4s">
+      <text class="cat" y="0">Backend</text>
+
+      <text class="txt" x="0" y="36">Spring Boot</text>
+      <rect class="bar-bg" x="130" y="25" width="235" height="11" rx="5"/>
+      <rect x="130" y="25" width="0" height="11" rx="5" fill="#6db33f">
+        <animate attributeName="width" from="0" to="202" dur="1s" fill="freeze"/>
+      </rect>
+
+      <text class="txt" x="0" y="66">REST APIs</text>
+      <rect class="bar-bg" x="130" y="55" width="235" height="11" rx="5"/>
+      <rect x="130" y="55" width="0" height="11" rx="5" fill="#79c0ff">
+        <animate attributeName="width" from="0" to="193" dur="1s" fill="freeze"/>
+      </rect>
+
+      <text class="txt" x="0" y="96">Spring JPA</text>
+      <rect class="bar-bg" x="130" y="85" width="235" height="11" rx="5"/>
+      <rect x="130" y="85" width="0" height="11" rx="5" fill="#6db33f">
+        <animate attributeName="width" from="0" to="174" dur="1s" fill="freeze"/>
+      </rect>
+
+      <text class="txt" x="0" y="126">Security / JWT</text>
+      <rect class="bar-bg" x="130" y="115" width="235" height="11" rx="5"/>
+      <rect x="130" y="115" width="0" height="11" rx="5" fill="#f2cc60">
+        <animate attributeName="width" from="0" to="165" dur="1s" fill="freeze"/>
+      </rect>
+    </g>
+
+    <!-- Frontend -->
+    <g transform="translate(0, 208)" class="fade-in" style="animation-delay: 0.6s">
+      <text class="cat" y="0">Frontend</text>
+
+      <text class="txt" x="0" y="36">React</text>
+      <rect class="bar-bg" x="120" y="25" width="235" height="11" rx="5"/>
+      <rect x="120" y="25" width="0" height="11" rx="5" fill="#61dafb">
+        <animate attributeName="width" from="0" to="193" dur="1s" fill="freeze"/>
+      </rect>
+
+      <text class="txt" x="0" y="66">Next.js</text>
+      <rect class="bar-bg" x="120" y="55" width="235" height="11" rx="5"/>
+      <rect x="120" y="55" width="0" height="11" rx="5" fill="#c9d1d9">
+        <animate attributeName="width" from="0" to="155" dur="1s" fill="freeze"/>
+      </rect>
+
+      <text class="txt" x="0" y="96">Tailwind</text>
+      <rect class="bar-bg" x="120" y="85" width="235" height="11" rx="5"/>
+      <rect x="120" y="85" width="0" height="11" rx="5" fill="#06b6d4">
+        <animate attributeName="width" from="0" to="179" dur="1s" fill="freeze"/>
+      </rect>
+
+      <text class="txt" x="0" y="126">Vite</text>
+      <rect class="bar-bg" x="120" y="115" width="235" height="11" rx="5"/>
+      <rect x="120" y="115" width="0" height="11" rx="5" fill="#646cff">
+        <animate attributeName="width" from="0" to="165" dur="1s" fill="freeze"/>
+      </rect>
+    </g>
+
+    <!-- Tools & Platforms -->
+    <g transform="translate(430, 208)" class="fade-in" style="animation-delay: 0.8s">
+      <text class="cat" y="0">Tools &amp; Platforms</text>
+
+      <text class="txt" x="0" y="36">Git / GitHub</text>
+      <rect class="bar-bg" x="130" y="25" width="235" height="11" rx="5"/>
+      <rect x="130" y="25" width="0" height="11" rx="5" fill="#f05032">
+        <animate attributeName="width" from="0" to="207" dur="1s" fill="freeze"/>
+      </rect>
+
+      <text class="txt" x="0" y="66">Supabase</text>
+      <rect class="bar-bg" x="130" y="55" width="235" height="11" rx="5"/>
+      <rect x="130" y="55" width="0" height="11" rx="5" fill="#3ecf8e">
+        <animate attributeName="width" from="0" to="155" dur="1s" fill="freeze"/>
+      </rect>
+
+      <text class="txt" x="0" y="96">Auth0</text>
+      <rect class="bar-bg" x="130" y="85" width="235" height="11" rx="5"/>
+      <rect x="130" y="85" width="0" height="11" rx="5" fill="#eb5424">
+        <animate attributeName="width" from="0" to="146" dur="1s" fill="freeze"/>
+      </rect>
+
+      <text class="txt" x="0" y="126">Socket.io</text>
+      <rect class="bar-bg" x="130" y="115" width="235" height="11" rx="5"/>
+      <rect x="130" y="115" width="0" height="11" rx="5" fill="#c9d1d9">
+        <animate attributeName="width" from="0" to="141" dur="1s" fill="freeze"/>
+      </rect>
+    </g>
+
+    <!-- Rodapé: agora fora da área ocupada pela última skill -->
+    <g transform="translate(0, 375)" class="fade-in" style="animation-delay: 1s">
+      <text class="dim" y="-16">bars indicate current focus, not measured proficiency</text>
+      <text class="txt" y="4">
+        <tspan fill="#39d353">thyagoo-dev@github</tspan>:<tspan fill="#79c0ff">~</tspan>$ <tspan class="cursor">█</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
