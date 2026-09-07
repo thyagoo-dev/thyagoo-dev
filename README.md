@@ -1,75 +1,97 @@
-# Hi, I'm Thyago! 👋
-
-**Full Stack Developer**
-
-[![Inglês](https://img.shields.io/badge/English-US-blue)](./README.md)
-[![Português](https://img.shields.io/badge/Português-BR-green)](./README_pt.md)
-
-
-My name is Cicero Thyago de Oliveira Fernandes, I am 23 years old and I am from Ceará. I completed high school at IFCE, with a technical course in Computer Science. I am currently studying for a Bachelor's degree in Computer Science at IFCE, with a focus on systems development. Since I was a child, I have been passionate about technology, especially hardware and programming. To improve my knowledge, I have taken additional courses in Systems Programming and Full Stack Development, where I learned HTML, CSS, JAVASCRIPT and JAVA. I seek opportunities to apply my knowledge and contribute to innovative projects in the technology area.
-
-<div> 
-<!--Icone-->
-  <img align="right" alt="thyagoo-dev" height="200" src="thyagooof.jpg" style="padding: 10px">
-</div>
-  <link rel="stylesheet" href=>
-
-- 🎓 Bachelor's degree candidate in Computer Science at the Federal Institute of Education, Science, and Technology of Ceará (IFCE).
-- 🌍 I plan to live in Fortaleza, where I believe I will find better job opportunities in the computing field.
-- Addicted to coffee ☕, filmes 📺, animes 🎌, and games 🎮.
-
- This is my space where I share a bit of my journey and the projects I've been working on. I hope you find something of interest here!
-
- ## Portfolio
-- 🎨 [My online portfolio](https://cicero-thyago.vercel.app), showcases my academic and personal projects.
-
-## Languages and Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,react,md,linux,windows,vscode,git,github,postman" alt="">
-</a>
-
-## Professional Experience
-### 👩🏻‍💻 Auxiliar Administrativo Operacional
-(INOVA TECNOLOGIA EM SERVICOS LTDA)
-
-- 📅 start: 09/09/2024
-- 📅 end: 10/08/2024
-
-<!-- ## Certifications
-- 📜 [List any relevant certifications] -->
-
-## Contacts
 <div align="center">
-<!--LinkedIn-->
-<a href="https://www.linkedin.com/in/thyagoof/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
-<!--Instagram-->
-<a href="https://www.instagram.com/thyago.of" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+
+<h1>Cicero Thyago</h1>
+
+<h3><code>thyagoo-dev@github ~ $ ./contributions.sh</code></h3>
+<a href="https://github.com/thyagoo-dev">
+  <img src="./heatmap-thyagoo.svg?v=3" width="860" alt="GitHub contribution heatmap" />
 </a>
-<!--Telegram-->
-<a href="https://t.me/thyagooof" target="_blank">
-  <img src="https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+
+<br><br>
+
+---
+
+<h3><code>thyagoo-dev@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://cicero-thyago.vercel.app/">
+        <img src="./face-thyagoo.svg?v=10000" width="370" alt="ASCII portrait of Cicero Thyago" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://cicero-thyago.vercel.app/">
+        <img src="./info-thyagoo.svg?v=10000" width="490" alt="About Cicero Thyago" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3><code>thyagoo-dev@github ~ $ ./projects.sh</code></h3>
+<a href="https://github.com/thyagoo-dev?tab=repositories">
+  <img src="./projects-thyagoo.svg?v=1" width="860" alt="Projects by Cicero Thyago" />
 </a>
-<!-- Gmail -->
-<a href="mailto:cicero.thyago.oliveira07@aluno.ifce.edu.br" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23FF0000?style=for-the-badge&logo=gmail&logoColor=white">
+
+<br><br>
+
+<h3><code>thyagoo-dev@github ~ $ ./stats.sh</code></h3>
+<a href="https://github.com/thyagoo-dev">
+  <img src="./stats-thyagoo.svg?v=1" width="860" alt="GitHub stats" />
 </a>
+
+<br><br>
+
+<h3><code>thyagoo-dev@github ~ $ ./skills.sh</code></h3>
+<a href="https://github.com/thyagoo-dev">
+  <img src="./skills-thyagoo-fixed.svg?v=1" width="860" alt="Technical skills" />
+</a>
+
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-cicero--thyago.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cicero-thyago.vercel.app/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/@thyagoodev-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/thyagoodev/)
+[![Instagram](https://img.shields.io/badge/@yhtdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yhtdev/)
+[![GitHub](https://img.shields.io/badge/@thyagoo--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thyagoo-dev)
+
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Science-IFCE-2ea44f?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Computer Science at IFCE" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-2563eb?style=for-the-badge&logo=code&logoColor=white" alt="Software Development" />
+  <img src="https://img.shields.io/badge/Java%20%7C%20Spring%20Boot%20%7C%20React-Developer-f59e0b?style=for-the-badge&logo=java&logoColor=white" alt="Java, Spring Boot and React" />
+</p>
 
 <br>
-Feel free to get in touch with me and follow my journey in the field of technology!
-</div>
 
-## GitHub Account Information
-<div align="center">
-<!--Github Stats-->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="" src="https://github-readme-stats.vercel.app/api?username=thyagoo-dev&theme=dracula&hide=issues&show_icons=true&rank_icon=github&show="/>
+<h3><code>thyagoo-dev@github ~ $ ./featured-projects.sh</code></h3>
+
+<p align="center">
+  <img src="./project-hipocampo.svg?v=1" width="420" alt="Hipocampo project" />
+  <a href="https://thyagoo-dev.github.io/mofidax/">
+    <img src="./project-mofidax.svg?v=1" width="420" alt="Mofidax project" />
   </a>
-  <!--Languages-->
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagoo-dev&layout=compact&theme=dracula"/>
-  </a>
-  <br>
+</p>
+
+<i>
+  Hipocampo (In Development) •
+  <a href="https://thyagoo-dev.github.io/mofidax/">Mofidax (Live)</a> •
+  <a href="https://github.com/thyagoo-dev/mofidax">Mofidax (GitHub)</a> •
+  <a href="https://github.com/thyagoo-dev/taskmanager-api">TaskManager API</a> •
+  <a href="https://github.com/thyagoo-dev/quiz-multiplayer">TH Quiz Multiplayer</a> •
+  <a href="https://github.com/thyagoo-dev/yugioh-multiverse">Yu-Gi-Oh! Multiverse</a>
+</i>
+
+<br><br>
+
+<b>Let's Connect &amp; Collaborate!</b><br />
+<a href="https://cicero-thyago.vercel.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/thyagoodev/">LinkedIn</a> •
+<a href="https://www.instagram.com/yhtdev/">Instagram</a> •
+<a href="https://github.com/thyagoo-dev">GitHub</a>
+
 </div>
